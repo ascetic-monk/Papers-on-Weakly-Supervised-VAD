@@ -75,7 +75,7 @@ if you want to extract Visual Feature like this project, you can clone [this pro
 |             |         |      |            | I3D-RGB & I3D  Flow |         |  Fine   | 91.24  | 0.10 |              |                                                              |
 |    MTN-KMIL |  Tian   | 2021 |   arxiv    |       C3D-RGB       |    √    | Coarse  | 91.51  |      |              | Official(Pytorch)[Code](https://github.com/tianyu0207/MTN-KMIL) |
 |             |         |      |            |       I3D-RGB       |    √    | Coarse  | 97.21  |      |              |                                                              |
-|    MIST     |  Feng   | 2021 |    CVPR    |       C3D-RGB       |    X    |  Fine   | 93.13  | 1.71 |              |                                                              |
+|    MIST     |  Feng   | 2021 |    CVPR    |       C3D-RGB       |    X    |  Fine   | 93.13  | 1.71 |              | Official(Pytorch)[Code](https://github.com/fjchange/MIST_VAD)      |
 |             |         |      |            |       I3D-RGB       |    X    |  Fine   | 94.83  | 0.05 |              |                                                              |
 
 
@@ -96,7 +96,7 @@ if you want to extract Visual Feature like this project, you can clone [this pro
 | XD-Violence  |   Wu    | 2020 |    ECCV    | I3D-RGB  |    √    |         | 82.44 |      |              |                                                              |
 |   MTN-KMIL   |  Tian   | 2021 |   arxiv    | C3D-RGB  |    √    | Coarse  | 83.28 |      |              | Official(Pytorch)[Code](https://github.com/tianyu0207/MTN-KMIL) |
 |              |         |      |            | I3D-RGB  |    √    | Coarse  | 84.03 |      |              |                                                              |
-|     MIST     |  Feng   | 2021 |    CVPR    | C3D-RGB  |    X    |  Fine   | 81.40 | 2.19 |              |                                                              |
+|     MIST     |  Feng   | 2021 |    CVPR    | C3D-RGB  |    X    |  Fine   | 81.40 | 2.19 |              | Official(Pytorch)[Code](https://github.com/fjchange/MIST_VAD)  |
 |              |         |      |            | I3D-RGB  |    X    |  Fine   | 82.30 | 0.13 |              |                                                              |
 
 ## Reference
