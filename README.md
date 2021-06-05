@@ -3,7 +3,7 @@ collect some papers on weakly-supervised Video Anomaly Detection.
 
 ## Papers
 2018
-[Sultani.etl](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf) Real-world Anomaly Detection in Surveillance Videos, CVPR 2018.
+[Sultani.etl](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.pdf) Real-world Anomaly Detection in Surveillance Videos, CVPR 2018.da
 2019
 [GCN-Anomaly] Graph Convolutional Label Noise Cleaner:Train a Plug-and-play Action Classifier for Anomaly Detection, CVPR 2019.
 [IBL] Temporal Convolutional Network with Complementary Inner Bag Loss For Weakly Supervised Anomaly Detection. ICIP 19.
