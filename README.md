@@ -56,7 +56,7 @@ if you want to extract Visual Feature like this project, you can clone [this pro
 
 ### ShangHai Tech
 
-|   Method    | Author  | Year | Conference |      Features       | 10-crop | GRAINED |  AUC   | FAR  |              |                                                              |
+|   Method    |First Author| Year | Conference |      Features       | 10-crop | GRAINED |  AUC   | FAR  |              |                                                              |
 | :---------: | :-----: | :--: | :--------: | :-----------------: | :-----: | :-----: | :----: | ---- | ------------ | ------------------------------------------------------------ |
 |    RWAD     | Sultani | 2018 |    CVPR    |       C3D-RGB       |    X    | Coarse  | 86.30  | 0.15 |              | Official(Keras)[code](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018) |
 |             |         |      |            |       I3D-RGB       |    √    | Coarse  | 85.33  |      | Re-implement |                                                              |
@@ -78,7 +78,7 @@ if you want to extract Visual Feature like this project, you can clone [this pro
 ### UCF-Crime
 
 
-|    Method    | Author  | Year | Conference | Features | 10-crop | GRAINED |  AUC  | FAR  |              |                                                              |
+|    Method    |First-Author| Year | Conference | Features | 10-crop | GRAINED |  AUC  | FAR  |              |                                                              |
 | :----------: | :-----: | :--: | :--------: | :------: | :-----: | :-----: | :---: | :--: | ------------ | ------------------------------------------------------------ |
 |     RWAD     | Sultani | 2018 |    CVPR    | C3D-RGB  |    X    |         | 75.41 | 1.9  |              | Official(Keras)[code](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018) |
 |              |         |      |            | I3D-RGB  |    X    |         | 77.92 |      |              |                                                              |
